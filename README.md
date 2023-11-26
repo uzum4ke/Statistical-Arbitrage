@@ -1,1 +1,1 @@
-EMPTY FOR NOW
+A statistical arbitrage trading bot currently using the metatrader5 python library
