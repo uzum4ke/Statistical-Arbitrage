@@ -1,1 +1,1 @@
-A statistical arbitrage trading bot currently using the metatrader5 python library
+A statistical arbitrage forecasting bot using the metatrader5 python library.
